@@ -1,0 +1,36 @@
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.cache
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.lref
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp.g.resources
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\Page1.g.cs
+C:\Users\student\Desktop\Струева Марина\MyFirstApp\obj\Debug\Page1.baml
+C:\Users\student\Desktop\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Users\student\Desktop\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Users\student\Desktop\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\Page1.g.cs
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\Page2.g.cs
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\App.g.cs
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.cache
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.lref
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\Page1.baml
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\Page2.baml
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp.g.resources
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\student\Desktop\MyFirstApp\obj\Debug\MyFirstApp.pdb
